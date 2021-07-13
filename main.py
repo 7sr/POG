@@ -4,7 +4,7 @@ import random
 import requests
 
 PREFIX=","
-TOKEN="ODYzNDEzMjU3NDAxOTI1NjUy.YOmiQg.7kZelBnODaaMkLLR8fFbQxxVGAw"
+TOKEN="YOUR TOKEN GOES HERE"
 
 client = commands.Bot(command_prefix = PREFIX)  #edit on the 7th line
 client.remove_command("help")
